@@ -4,6 +4,16 @@ DPI 911 - splunk base commands map to Mitre ATT&amp;CK
 This Guidline created with guidance and help from Professor Dr. Mohammad Faghani
 
 ## T1004
+### Technique Description
+* Assumption
+* Execution
+* Detection
+* Visibility
+* Filter/Correlation
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+![account manipulation] (https://drive.google.com/file/d/1rS6UuZZ1Iuan4oM49hGKZqHqmsWVIzyP/view?usp=sharing)
+
 ## T1009
 ## T1017
 ## T1020
