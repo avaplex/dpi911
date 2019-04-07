@@ -2,6 +2,7 @@
 DPI 911 - splunk base commands map to Mitre ATT&amp;CK
 
 This Guidline created with guidance and help from Professor Dr. Mohammad Faghani
+This repository include following ssigned ID by ATT&CK Tactic & Technique, However some may not have any Filter assigned to, For example T1189, Drive-by Compromise.
 
 ## T1004
 ### Technique Description
@@ -9,7 +10,7 @@ This Guidline created with guidance and help from Professor Dr. Mohammad Faghani
 * Execution
 * Detection
   * Visibility
-  * #### Filter/Correlation
+#### Filter/Correlation
 ![GitHub Logo](/images/logo.png)
 
 Format: ![Alt Text](url)
