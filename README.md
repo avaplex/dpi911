@@ -8,27 +8,27 @@ This repository include following ssigned ID from ATT&CK Tactic & Technique, and
 However some may not have any Filter assigned to, For example T1189, Drive-by Compromise.
 
 ### Binary Padding: https://attack.mitre.org/techniques/T1009/
-### [T1017](https://github.com/avaplex/dpi911/blob/master/T1017.md)
-### [T1020](https://github.com/avaplex/dpi911/blob/master/T1020.md)
-### [T1038](https://github.com/avaplex/dpi911/blob/master/T1038.md)
-### [T1040](https://github.com/avaplex/dpi911/blob/master/T1040.md)
-### [T1043]:https://github.com/avaplex/dpi911/blob/master/Command%20and%20Control/Commonly%20Used%20Port_T1043/T1043.md
-### [T1059](https://github.com/avaplex/dpi911/blob/master/T1059.md)
-### [T1078](https://github.com/avaplex/dpi911/blob/master/T1078.md)
-### [T1084](https://github.com/avaplex/dpi911/blob/master/T1084.md)
-### [T1088](https://github.com/avaplex/dpi911/blob/master/T1088.md)
-### [T1092]:https://github.com/avaplex/dpi911/blob/master/Command%20and%20Control/Communication%20Through%20Removable%20Media_T1092/T1092.md
-### [T1098]:https://github.com/avaplex/dpi911/blob/master/Credential%20Access/Account%20Manipulation_T1098/T1098.md
-### [T1100](https://github.com/avaplex/dpi911/blob/master/T1100.md)
-### [T1110](https://github.com/avaplex/dpi911/blob/master/T1110.md)
-### [T1116](https://github.com/avaplex/dpi911/blob/master/T1116.md)
-### [T1134](https://github.com/avaplex/dpi911/blob/master/T1134.md)
-### [T1138](https://github.com/avaplex/dpi911/blob/master/T1138.md)
-### [T1175](https://github.com/avaplex/dpi911/blob/master/T1175.md)
-### [T1189](https://github.com/avaplex/dpi911/blob/master/T1189.md)
-### [T1191](https://github.com/avaplex/dpi911/blob/master/T1191.md)
-### [T1197](https://github.com/avaplex/dpi911/blob/master/T1197.md)
-### [T1201](https://github.com/avaplex/dpi911/blob/master/T1201.md)
-### [T1209](https://github.com/avaplex/dpi911/blob/master/T1209.md)
-### [T1213]:https://github.com/avaplex/dpi911/blob/master/Collection/Data%20from%20Information%20Repositories_T1213/T1213.md
-### [T1223](https://github.com/avaplex/dpi911/blob/master/T1223.md)
+### Application Deployment Software: https://attack.mitre.org/techniques/T1017/
+### Automated Exfiltration: https://attack.mitre.org/techniques/T1020/
+### DLL Search Order Hijacking: https://attack.mitre.org/techniques/T1038/
+### Network Sniffing: https://attack.mitre.org/techniques/T1040/
+### Commonly Used Port: https://attack.mitre.org/techniques/T1043/
+### Command-Line Interface: https://attack.mitre.org/techniques/T1059/
+### Valid Accounts: https://attack.mitre.org/techniques/T1078/
+### Windows Management Instrumentation Event Subscription: https://attack.mitre.org/techniques/T1084/
+### Bypass User Account Control: https://attack.mitre.org/techniques/T1088/
+### Communication Through Removable Media: https://attack.mitre.org/techniques/T1092/
+### Account Manipulation: https://attack.mitre.org/techniques/T1098/
+### Web Shell: https://attack.mitre.org/techniques/T1100/
+### Brute Force: https://attack.mitre.org/techniques/T1110/
+### Code Signing: https://attack.mitre.org/techniques/T1116/
+### Access Token Manipulation: https://attack.mitre.org/techniques/T1134/
+### Application Shimming: https://attack.mitre.org/techniques/T1138/
+### Distributed Component Object Model: https://attack.mitre.org/techniques/T1175/
+### Drive-by Compromise: https://attack.mitre.org/techniques/T1189/
+### CMSTP: https://attack.mitre.org/techniques/T1191/
+### BITS Jobs: https://attack.mitre.org/techniques/T1197/
+### Password Policy Discovery: https://attack.mitre.org/techniques/T1201/
+### Time Providers: https://attack.mitre.org/techniques/T1209/
+### Data from Information Repositories: https://attack.mitre.org/techniques/T1213/
+### Compiled HTML File: https://attack.mitre.org/techniques/T1223/
