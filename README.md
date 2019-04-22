@@ -12,13 +12,13 @@ However some may not have any Filter assigned to, For example T1189, Drive-by Co
 ### [T1020](https://github.com/avaplex/dpi911/blob/master/T1020.md)
 ### [T1038](https://github.com/avaplex/dpi911/blob/master/T1038.md)
 ### [T1040](https://github.com/avaplex/dpi911/blob/master/T1040.md)
-### [T1043](https://github.com/avaplex/dpi911/blob/master/T1043.md)
+### [T1043]:https://github.com/avaplex/dpi911/blob/master/Command%20and%20Control/Commonly%20Used%20Port_T1043/T1043.md
 ### [T1059](https://github.com/avaplex/dpi911/blob/master/T1059.md)
 ### [T1078](https://github.com/avaplex/dpi911/blob/master/T1078.md)
 ### [T1084](https://github.com/avaplex/dpi911/blob/master/T1084.md)
 ### [T1088](https://github.com/avaplex/dpi911/blob/master/T1088.md)
-### [T1092](https://github.com/avaplex/dpi911/blob/master/T1092.md)
-### [T1098](https://github.com/avaplex/dpi911/blob/master/T1098.md)
+### [T1092]:https://github.com/avaplex/dpi911/blob/master/Command%20and%20Control/Communication%20Through%20Removable%20Media_T1092/T1092.md
+### [T1098]:https://github.com/avaplex/dpi911/blob/master/Credential%20Access/Account%20Manipulation_T1098/T1098.md
 ### [T1100](https://github.com/avaplex/dpi911/blob/master/T1100.md)
 ### [T1110](https://github.com/avaplex/dpi911/blob/master/T1110.md)
 ### [T1116](https://github.com/avaplex/dpi911/blob/master/T1116.md)
@@ -30,5 +30,5 @@ However some may not have any Filter assigned to, For example T1189, Drive-by Co
 ### [T1197](https://github.com/avaplex/dpi911/blob/master/T1197.md)
 ### [T1201](https://github.com/avaplex/dpi911/blob/master/T1201.md)
 ### [T1209](https://github.com/avaplex/dpi911/blob/master/T1209.md)
-### [T1213]:(https://github.com/avaplex/dpi911/blob/master/Collection/Data%20from%20Information%20Repositories_T1213/T1213.md)
+### [T1213]:https://github.com/avaplex/dpi911/blob/master/Collection/Data%20from%20Information%20Repositories_T1213/T1213.md
 ### [T1223](https://github.com/avaplex/dpi911/blob/master/T1223.md)
